@@ -1,6 +1,9 @@
-p{
-    height: 100px;
-    width: 150px;
-    background-color: red;
-    color: black;
+img{
+width: 100%;
+}
+div{
+    
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
 }
